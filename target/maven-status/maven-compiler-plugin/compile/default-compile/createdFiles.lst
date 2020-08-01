@@ -1,0 +1,5 @@
+app\MainApp.class
+app\model\Car.class
+app\model\entities\Filiala.class
+app\controller\MainController.class
+app\model\entities\SchimbValutar.class
